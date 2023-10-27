@@ -12,5 +12,5 @@ Add changes to file and save. Example below shows an entry to have a script run 
 
 ```
 # JB 3-28-2020 - runs at startup and prints error to cron.log
-@reboot /home/rocks/github/raspberry-pi2/bin/startup.sh 2>>/home/rocks/github/raspberry-pi2/logs/cron.log
+@reboot /home/rocks/github/raspberry-pi-4/bin/startup.sh 2>>/home/rocks/github/raspberry-pi-4/logs/cron.log
 ```

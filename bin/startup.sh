@@ -3,7 +3,7 @@
 # Script to log startup time
 
 # path to file to be logged to
-LOG_FILE="/home/rocks/github/raspberry-pi2/logs/startup.log"
+LOG_FILE="/home/rocks/github/raspberry-pi-4/logs/startup.log"
 
 # Terminal Message
 echo "startup.sh script run @"
